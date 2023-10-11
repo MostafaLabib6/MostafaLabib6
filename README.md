@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h6 align="left">- 🔭 I’m currently Fresh Graduate Student<br>- 📚 I'm currently learning more about DotNet Core and Angular<br>- 👨‍💻 Most of my projects are available on GitHub.</h6>
+<h2 align="left">- 🔭 I’m currently Fresh Graduate Student<br>- 📚 I'm currently learning more about DotNet Core and Angular<br>- 👨‍💻 Most of my projects are available on GitHub.</h2>
 
 ###
 
