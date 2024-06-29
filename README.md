@@ -30,8 +30,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m currently Junior FullStack Developer<br>- 📚 I'm currently working with DotNet and Vuejs<br>- 👨‍💻 Most of my projects are available on GitHub.</h4>
-<h4 align="left">- 📚 I'm currently Learning about DotNet and Microservices, TDD<br>-
+<h4 align="left">- 🔭 I’m currently Junior FullStack Developer<br>- 📚 I'm currently working with DotNet and Vuejs<br>-📚 I'm currently Learning about DotNet and Microservices, TDD<br>- 👨‍💻 Most of my projects are available on GitHub.</h4>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
