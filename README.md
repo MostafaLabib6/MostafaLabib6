@@ -30,8 +30,8 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m currently Fresh Graduate Student<br>- 📚 I'm currently learning more about DotNet Core and Angular<br>- 👨‍💻 Most of my projects are available on GitHub.</h4>
-
+<h4 align="left">- 🔭 I’m currently Junior FullStack Developer<br>- 📚 I'm currently working with DotNet and Vuejs<br>- 👨‍💻 Most of my projects are available on GitHub.</h4>
+<h4 align="left">- 📚 I'm currently Learning about DotNet and Microservices, TDD<br>-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
